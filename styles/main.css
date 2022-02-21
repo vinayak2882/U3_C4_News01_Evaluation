@@ -1,0 +1,30 @@
+#sidebar{
+  border: 1px solid black;
+  width: 200px;
+  height: 400px;
+  
+}
+#sidebar div{
+  border: 1px solid black;
+margin-top: 15px;
+  
+}
+#sidebar input{
+  border: 2px solid black;
+margin-top: 15px;
+  
+}
+#container{
+        display: flex;
+      }
+      #main img {
+width: 400px;
+height: 300px;
+
+      }
+      #main{
+        
+        width: 800px;
+        margin: auto;
+      }   
+      
